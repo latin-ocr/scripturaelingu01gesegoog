@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./scripturaelingu01gesegoog_0023.png"; bbox 0 0 5275 6609; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 3017 82 3148 99">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 3017 82 3148 99">
+     <span class='ocr_line' id='line_1_1' title="bbox 3017 82 3148 99; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 3017 82 3148 99; x_wconf 52' lang='lat' dir='ltr'>-a-&#39;fl</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 2542 4 2770 100">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 2542 4 2770 100">
+     <span class='ocr_line' id='line_1_2' title="bbox 2710 4 2717 12; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 2710 4 2717 12; x_wconf 87' lang='lat'>-</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 2542 74 2770 100; baseline -0.013 -3"><span class='ocrx_word' id='word_1_3' title='bbox 2542 77 2551 85; x_wconf 78' lang='lat'><em>⁶</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 2608 74 2708 100; x_wconf 58' lang='lat' dir='ltr'>nu-*ae</span> <span class='ocrx_word' id='word_1_5' title='bbox 2759 85 2770 94; x_wconf 77' lang='grc' dir='ltr'>ι</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 60 278 4650 6061">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 60 278 4650 6061">
+     <span class='ocr_line' id='line_1_4' title="bbox 60 278 4650 6061; textangle 270"><span class='ocrx_word' id='word_1_6' title='bbox 60 278 4650 6061; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
